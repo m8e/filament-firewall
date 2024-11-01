@@ -6,15 +6,15 @@
         "laravel",
         "filament-firewall"
     ],
-    "homepage": "https://github.com/solution-forest/filament-firewall",
+    "homepage": "https://github.com/m8e/filament-firewall",
     "support": {
-        "issues": "https://github.com/solution-forest/filament-firewall/issues",
-        "source": "https://github.com/solution-forest/filament-firewall"
+        "issues": "https://github.com/m8e/filament-firewall/issues",
+        "source": "https://github.com/m8e/filament-firewall"
     },
     "license": "MIT",
     "authors": [{
-        "name": "Carly",
-        "email": "info@solutionforest.net",
+        "name": "m8e",
+        "email": "m8e@ecoms.com",
         "role": "Developer"
     }],
     "require": {
